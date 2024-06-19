@@ -165,8 +165,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
-		color: blue;
-		align-text: center;
+		color: white;
 	}
 
 	h1 {
@@ -212,7 +211,7 @@ input, select, textarea {
 			color: inherit;
 		}
 
-	h2, .contact {
+	h2 {
 		font-size: 1.1em;
 	}
 
@@ -3181,7 +3180,7 @@ input, select, textarea {
 	
 	#footer {
 		padding: 5em 0 6em 0 ;
-		/* background-color: #e9e51a; */
+		background-color: #e9e51a; 
 		
 	}
 		#footer > .inner  {
